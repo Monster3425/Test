@@ -1,0 +1,8 @@
+{
+    "token": "token of bot here",
+    "prefix": "prefix of bot",
+    "owner": "your id here",
+    "color": "#ff0000",
+    "mongoString": "mongo db srv here",
+    "guildId": "guild id here"
+}
